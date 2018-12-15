@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubernetes on heguangfu - habble patato</title>
+    <link>http://hgfjxn.github.io/categories/kubernetes/</link>
+    <description>Recent content in kubernetes on heguangfu - habble patato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Dec 2018 19:44:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://hgfjxn.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubeadm部署kubernetes</title>
+      <link>http://hgfjxn.github.io/post/kubeadm%E9%83%A8%E7%BD%B2kubernetes/</link>
+      <pubDate>Sat, 15 Dec 2018 19:44:50 +0800</pubDate>
+      
+      <guid>http://hgfjxn.github.io/post/kubeadm%E9%83%A8%E7%BD%B2kubernetes/</guid>
+      <description>kubeadm 安装kubernetes 准备环境 服务器 服务器情况： IP 系统版本 角色 Hostname 10.20.13.24 Centos7 64位 minimal master kuber24 10.20.13.25 Centos7 64位 minimal work Kuber25 10.20.13.26 Centos7 64位 minimal work Kuber26 10.20.13.27 Centos7 64位 minimal work Kuber27 修改ho</description>
+    </item>
+    
+  </channel>
+</rss>

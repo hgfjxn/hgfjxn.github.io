@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://hgfjxn.github.io/sitemap.xml
